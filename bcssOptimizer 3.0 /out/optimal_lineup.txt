@@ -1,0 +1,101 @@
+================================================================================
+BCSS SWIMMING PROVINCIALS - OPTIMAL LINEUP
+================================================================================
+
+============================================================
+Girls A
+============================================================
+
+• 200 Freestyle Relay (RELAY - Double Points)
+  Team - Expected Points: 21.1 (8.5 place)
+    Rachel Zhai (29.58s), Hailey Lee (29.13s), Natalie Liu (29.81s), Mirabelle Woo (29.81s)
+    Total Time: 118.33s
+
+• 200 Medley Relay (RELAY - Double Points)
+  Team - Expected Points: 27.3 (5.3 place)
+    Mirabelle Woo (Back: 33.33s), Chloe Lee (Breast: 35.17s), Hailey Lee (Fly: 31.28s), Rachel Zhai (Free: 29.58s)
+    Total Time: 129.36s
+
+• 400 Freestyle Relay (RELAY - Double Points)
+  Team - Expected Points: 30.1 (4.0 place)
+    Rachel Zhai (65.34s), Hailey Lee (62.32s), Natalie Liu (64.18s), Mirabelle Woo (65.93s)
+    Total Time: 257.77s
+
+• 100 Backstroke
+  - Mirabelle Woo: 72.30s → 1.5 pts (15.5 place)
+  - Hailey Lee: 73.33s → 1.2 pts (15.8 place)
+
+============================================================
+TOP PERFORMERS BY GROUP
+============================================================
+
+
+Girls A - Top 5:
+  Mirabelle Woo: 21.1 pts
+    Events: 100 Backstroke, 200 Freestyle Relay (R), 200 Medley Relay (R), 400 Freestyle Relay (R)
+  Hailey Lee: 20.8 pts
+    Events: 100 Backstroke, 200 Freestyle Relay (R), 200 Medley Relay (R), 400 Freestyle Relay (R)
+  Rachel Zhai: 19.6 pts
+    Events: 200 Freestyle Relay (R), 200 Medley Relay (R), 400 Freestyle Relay (R)
+  Natalie Liu: 12.8 pts
+    Events: 200 Freestyle Relay (R), 400 Freestyle Relay (R)
+  Chloe Lee: 6.8 pts
+    Events: 200 Medley Relay (R)
+
+============================================================
+POINTS SUMMARY
+============================================================
+
+Total Expected Points: 81.2
+  Individual Events: 2.7
+  Relay Events (Double): 78.5
+
+Points by Category:
+  Boys A: 0.0 pts (Ind: 0.0, Relay: 0.0)
+  Boys B: 0.0 pts (Ind: 0.0, Relay: 0.0)
+  Girls A: 81.2 pts (Ind: 2.7, Relay: 78.5)
+  Girls B: 0.0 pts (Ind: 0.0, Relay: 0.0)
+
+============================================================
+SWIMMER UTILIZATION
+============================================================
+
+Boys A:
+
+Boys B:
+
+Girls A:
+  Hailey Lee: 4/4 events ✓
+  Mirabelle Woo: 4/4 events ✓
+  Rachel Zhai: 3/4 events ✓
+  Natalie Liu: 2/4 events ✓
+  Chloe Lee: 1/4 events ✓
+  Megan Lam: 0/4 events ✓
+  Kadence Wong: 0/4 events ✓
+
+Girls B:
+
+============================================================
+VALIDATION REPORT
+============================================================
+
+✓ All constraints satisfied:
+  • Max 4 events per swimmer
+  • Max 3 entries per individual event
+  • Exactly 4 swimmers per relay team
+  • Swimmers only in eligible categories
+  • All relay events entered (when possible)
+
+================================================================================
+OPTIMALITY GUARANTEE
+================================================================================
+
+This lineup is GUARANTEED OPTIMAL using OR-Tools CP-SAT solver.
+The solver explored the entire solution space and proved
+that no other valid lineup can score more points.
+
+Key assumptions:
+• Expected points based on linear interpolation of benchmark times
+• 16th place or worse earns 0 points (BCSS rule)
+• Relay times estimated using 50 Free (200m) or 100 Free (400m) as proxy
+• No consideration for event order, fatigue, or DQ risk

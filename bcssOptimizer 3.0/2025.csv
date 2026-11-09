@@ -1,0 +1,562 @@
+﻿event,gender,category,distance,stroke,placement,timeraw,timeseconds,valid,points_earned
+1,Girls,B,200,Medley Relay,1,02:10.1,130.1,TRUE,40
+1,Girls,B,200,Medley Relay,2,02:12.5,132.5,TRUE,36
+1,Girls,B,200,Medley Relay,3,02:14.7,134.73,TRUE,32
+1,Girls,B,200,Medley Relay,4,02:14.8,134.8,TRUE,30
+1,Girls,B,200,Medley Relay,5,02:17.7,137.68,TRUE,28
+1,Girls,B,200,Medley Relay,6,02:18.3,138.29,TRUE,26
+1,Girls,B,200,Medley Relay,7,02:19.0,138.98,TRUE,24
+1,Girls,B,200,Medley Relay,8,02:21.4,141.4,TRUE,22
+1,Girls,B,200,Medley Relay,9,02:24.8,144.76,TRUE,20
+1,Girls,B,200,Medley Relay,10,02:24.9,144.92,TRUE,16
+1,Girls,B,200,Medley Relay,11,02:26.1,146.14,TRUE,12
+1,Girls,B,200,Medley Relay,12,02:26.6,146.58,TRUE,10
+1,Girls,B,200,Medley Relay,13,02:27.4,147.44,TRUE,8
+1,Girls,B,200,Medley Relay,14,02:27.6,147.58,TRUE,6
+1,Girls,B,200,Medley Relay,15,02:32.1,152.07,TRUE,4
+1,Girls,B,200,Medley Relay,16,02:32.7,152.74,TRUE,2
+2,Boys,B,200,Medley Relay,1,01:51.0,111.02,TRUE,40
+2,Boys,B,200,Medley Relay,2,01:53.9,113.88,TRUE,36
+2,Boys,B,200,Medley Relay,3,01:54.5,114.55,FALSE,32
+2,Boys,B,200,Medley Relay,4,01:57.7,117.65,TRUE,30
+2,Boys,B,200,Medley Relay,5,01:58.0,117.99,TRUE,28
+2,Boys,B,200,Medley Relay,6,01:58.9,118.93,TRUE,26
+2,Boys,B,200,Medley Relay,7,02:00.2,120.16,TRUE,24
+2,Boys,B,200,Medley Relay,8,02:02.6,122.58,TRUE,22
+2,Boys,B,200,Medley Relay,9,02:04.5,124.52,TRUE,20
+2,Boys,B,200,Medley Relay,10,02:06.0,126.03,TRUE,16
+2,Boys,B,200,Medley Relay,11,02:08.2,128.19,TRUE,12
+2,Boys,B,200,Medley Relay,12,02:09.5,129.53,TRUE,10
+2,Boys,B,200,Medley Relay,13,02:10.3,130.32,TRUE,8
+2,Boys,B,200,Medley Relay,14,02:11.0,131.03,TRUE,6
+2,Boys,B,200,Medley Relay,15,02:20.9,140.94,TRUE,4
+2,Boys,B,200,Medley Relay,16,02:36.4,156.37,TRUE,2
+3,Girls,A,200,Medley Relay,1,01:56.4,116.42,TRUE,40
+3,Girls,A,200,Medley Relay,2,01:58.0,117.98,TRUE,36
+3,Girls,A,200,Medley Relay,3,01:59.4,119.43,TRUE,32
+3,Girls,A,200,Medley Relay,4,02:02.3,122.34,TRUE,30
+3,Girls,A,200,Medley Relay,5,02:08.5,128.51,TRUE,28
+3,Girls,A,200,Medley Relay,6,02:11.1,131.1,TRUE,26
+3,Girls,A,200,Medley Relay,7,02:11.5,131.49,TRUE,24
+3,Girls,A,200,Medley Relay,8,02:12.3,132.3,TRUE,22
+3,Girls,A,200,Medley Relay,9,02:13.3,133.27,TRUE,20
+3,Girls,A,200,Medley Relay,10,02:13.5,133.54,TRUE,16
+3,Girls,A,200,Medley Relay,11,02:14.6,134.56,TRUE,12
+3,Girls,A,200,Medley Relay,12,02:17.2,137.23,TRUE,10
+3,Girls,A,200,Medley Relay,13,02:17.3,137.31,TRUE,8
+3,Girls,A,200,Medley Relay,14,02:17.6,137.63,TRUE,6
+3,Girls,A,200,Medley Relay,15,02:18.6,138.56,TRUE,4
+3,Girls,A,200,Medley Relay,16,02:20.6,140.57,TRUE,2
+4,Boys,A,200,Medley Relay,1,01:46.7,106.69,TRUE,40
+4,Boys,A,200,Medley Relay,2,01:49.1,109.06,TRUE,36
+4,Boys,A,200,Medley Relay,3,01:50.7,110.73,TRUE,32
+4,Boys,A,200,Medley Relay,4,01:51.1,111.13,TRUE,30
+4,Boys,A,200,Medley Relay,5,01:51.4,111.39,TRUE,28
+4,Boys,A,200,Medley Relay,6,01:52.5,112.45,TRUE,26
+4,Boys,A,200,Medley Relay,7,01:53.7,113.69,TRUE,24
+4,Boys,A,200,Medley Relay,8,01:54.1,114.12,TRUE,22
+4,Boys,A,200,Medley Relay,9,01:55.8,115.76,TRUE,20
+4,Boys,A,200,Medley Relay,10,01:56.0,115.95,TRUE,16
+4,Boys,A,200,Medley Relay,11,01:56.1,116.08,FALSE,12
+4,Boys,A,200,Medley Relay,12,01:57.9,117.87,TRUE,10
+4,Boys,A,200,Medley Relay,13,01:58.7,118.7,TRUE,8
+4,Boys,A,200,Medley Relay,14,01:58.9,118.9,TRUE,6
+4,Boys,A,200,Medley Relay,15,02:00.4,120.44,TRUE,4
+4,Boys,A,200,Medley Relay,16,02:02.6,122.62,TRUE,2
+6,Girls,B,50,Freestyle,1,27.25,27.25,TRUE,20
+6,Girls,B,50,Freestyle,2,27.5,27.5,TRUE,18
+6,Girls,B,50,Freestyle,3,27.71,27.71,TRUE,16
+6,Girls,B,50,Freestyle,4,28.02,28.02,TRUE,15
+6,Girls,B,50,Freestyle,5,28.11,28.11,TRUE,14
+6,Girls,B,50,Freestyle,6,28.16,28.16,TRUE,13
+6,Girls,B,50,Freestyle,7,28.29,28.29,TRUE,12
+6,Girls,B,50,Freestyle,8,28.73,28.73,TRUE,11
+6,Girls,B,50,Freestyle,9,29.04,29.04,TRUE,10
+6,Girls,B,50,Freestyle,10,29.06,29.06,TRUE,8
+6,Girls,B,50,Freestyle,11,29.12,29.12,TRUE,6
+6,Girls,B,50,Freestyle,12,29.44,29.44,TRUE,5
+6,Girls,B,50,Freestyle,13,29.58,29.58,TRUE,4
+6,Girls,B,50,Freestyle,14,29.84,29.84,TRUE,3
+6,Girls,B,50,Freestyle,15,29.93,29.93,TRUE,2
+6,Girls,B,50,Freestyle,16,30.08,30.08,TRUE,1
+7,Boys,B,50,Freestyle,1,24.29,24.29,TRUE,20
+7,Boys,B,50,Freestyle,2,24.54,24.54,TRUE,18
+7,Boys,B,50,Freestyle,3,24.56,24.56,TRUE,16
+7,Boys,B,50,Freestyle,4,24.85,24.85,TRUE,15
+7,Boys,B,50,Freestyle,5,25.08,25.08,TRUE,14
+7,Boys,B,50,Freestyle,6,25.22,25.22,TRUE,13
+7,Boys,B,50,Freestyle,7,25.57,25.57,TRUE,12
+7,Boys,B,50,Freestyle,8,25.66,25.66,TRUE,11
+7,Boys,B,50,Freestyle,9,26.19,26.19,TRUE,10
+7,Boys,B,50,Freestyle,10,26.21,26.21,TRUE,8
+7,Boys,B,50,Freestyle,11,26.4,26.4,TRUE,6
+7,Boys,B,50,Freestyle,12,26.62,26.62,TRUE,5
+7,Boys,B,50,Freestyle,13,26.81,26.81,TRUE,4
+7,Boys,B,50,Freestyle,14,26.93,26.93,TRUE,3
+7,Boys,B,50,Freestyle,15,27.02,27.02,TRUE,2
+7,Boys,B,50,Freestyle,16,27.13,27.13,TRUE,1
+8,Girls,A,50,Freestyle,1,25.98,25.98,TRUE,20
+8,Girls,A,50,Freestyle,2,26.07,26.07,TRUE,18
+8,Girls,A,50,Freestyle,3,26.25,26.25,TRUE,16
+8,Girls,A,50,Freestyle,4,26.56,26.56,TRUE,15
+8,Girls,A,50,Freestyle,5,26.62,26.62,TRUE,14
+8,Girls,A,50,Freestyle,6,26.63,26.63,TRUE,13
+8,Girls,A,50,Freestyle,7,26.99,26.99,TRUE,12
+8,Girls,A,50,Freestyle,8,27.14,27.14,TRUE,11
+8,Girls,A,50,Freestyle,9,27.52,27.52,TRUE,10
+8,Girls,A,50,Freestyle,10,27.57,27.57,TRUE,8
+8,Girls,A,50,Freestyle,11,27.67,27.67,TRUE,6
+8,Girls,A,50,Freestyle,12,27.97,27.97,TRUE,5
+8,Girls,A,50,Freestyle,13,27.97,27.97,TRUE,4
+8,Girls,A,50,Freestyle,14,28,28,TRUE,3
+8,Girls,A,50,Freestyle,15,28.13,28.13,TRUE,2
+8,Girls,A,50,Freestyle,16,28.37,28.37,TRUE,1
+9,Boys,A,50,Freestyle,1,23.39,23.39,TRUE,20
+9,Boys,A,50,Freestyle,2,23.52,23.52,TRUE,18
+9,Boys,A,50,Freestyle,3,23.57,23.57,TRUE,16
+9,Boys,A,50,Freestyle,4,24.02,24.02,TRUE,15
+9,Boys,A,50,Freestyle,5,24.18,24.18,TRUE,14
+9,Boys,A,50,Freestyle,6,24.19,24.19,TRUE,13
+9,Boys,A,50,Freestyle,7,24.33,24.33,TRUE,12
+9,Boys,A,50,Freestyle,8,24.33,24.33,TRUE,11
+9,Boys,A,50,Freestyle,9,24.56,24.56,TRUE,10
+9,Boys,A,50,Freestyle,10,24.58,24.58,TRUE,8
+9,Boys,A,50,Freestyle,11,24.66,24.66,TRUE,6
+9,Boys,A,50,Freestyle,12,24.67,24.67,TRUE,5
+9,Boys,A,50,Freestyle,13,24.91,24.91,TRUE,4
+9,Boys,A,50,Freestyle,14,25.1,25.1,TRUE,3
+9,Boys,A,50,Freestyle,15,25.65,25.65,TRUE,2
+11,Girls,B,50,Backstroke,1,31.25,31.25,TRUE,20
+11,Girls,B,50,Backstroke,2,31.85,31.85,TRUE,18
+11,Girls,B,50,Backstroke,3,32.03,32.03,TRUE,16
+11,Girls,B,50,Backstroke,4,32.69,32.69,TRUE,15
+11,Girls,B,50,Backstroke,5,33.19,33.19,TRUE,14
+11,Girls,B,50,Backstroke,6,33.41,33.41,TRUE,13
+11,Girls,B,50,Backstroke,7,33.45,33.45,TRUE,12
+11,Girls,B,50,Backstroke,8,33.49,33.49,TRUE,11
+11,Girls,B,50,Backstroke,9,33.61,33.61,TRUE,10
+11,Girls,B,50,Backstroke,10,34.13,34.13,TRUE,8
+11,Girls,B,50,Backstroke,11,34.18,34.18,TRUE,6
+11,Girls,B,50,Backstroke,12,34.48,34.48,TRUE,5
+11,Girls,B,50,Backstroke,13,34.85,34.85,TRUE,4
+11,Girls,B,50,Backstroke,14,34.88,34.88,TRUE,3
+11,Girls,B,50,Backstroke,15,34.94,34.94,TRUE,2
+11,Girls,B,50,Backstroke,16,35.82,35.82,TRUE,1
+12,Boys,B,50,Backstroke,1,28.57,28.57,TRUE,20
+12,Boys,B,50,Backstroke,2,28.78,28.78,TRUE,18
+12,Boys,B,50,Backstroke,3,28.79,28.79,TRUE,16
+12,Boys,B,50,Backstroke,4,29.71,29.71,TRUE,15
+12,Boys,B,50,Backstroke,5,30.03,30.03,TRUE,14
+12,Boys,B,50,Backstroke,6,30.07,30.07,TRUE,13
+12,Boys,B,50,Backstroke,7,30.13,30.13,TRUE,12
+12,Boys,B,50,Backstroke,8,30.26,30.26,TRUE,11
+12,Boys,B,50,Backstroke,9,30.31,30.31,TRUE,10
+12,Boys,B,50,Backstroke,10,30.39,30.39,TRUE,8
+12,Boys,B,50,Backstroke,11,30.58,30.58,TRUE,6
+12,Boys,B,50,Backstroke,12,30.85,30.85,TRUE,5
+12,Boys,B,50,Backstroke,13,31.17,31.17,TRUE,4
+12,Boys,B,50,Backstroke,14,31.46,31.46,TRUE,3
+12,Boys,B,50,Backstroke,15,32.2,32.2,TRUE,2
+12,Boys,B,50,Backstroke,16,46.1,46.1,TRUE,1
+13,Girls,A,100,Backstroke,1,01:02.6,62.58,TRUE,20
+13,Girls,A,100,Backstroke,2,01:03.4,63.42,TRUE,18
+13,Girls,A,100,Backstroke,3,01:03.9,63.93,TRUE,16
+13,Girls,A,100,Backstroke,4,01:04.4,64.38,TRUE,15
+13,Girls,A,100,Backstroke,5,01:04.9,64.95,TRUE,14
+13,Girls,A,100,Backstroke,6,01:05.9,65.88,TRUE,13
+13,Girls,A,100,Backstroke,7,01:06.7,66.68,TRUE,12
+13,Girls,A,100,Backstroke,8,01:07.0,66.95,TRUE,11
+13,Girls,A,100,Backstroke,9,01:07.1,67.1,TRUE,10
+13,Girls,A,100,Backstroke,10,01:08.0,68.01,TRUE,8
+13,Girls,A,100,Backstroke,11,01:08.3,68.35,TRUE,6
+13,Girls,A,100,Backstroke,12,01:09.0,68.97,TRUE,5
+13,Girls,A,100,Backstroke,13,01:09.0,69.02,TRUE,4
+13,Girls,A,100,Backstroke,14,01:09.6,69.57,TRUE,3
+13,Girls,A,100,Backstroke,15,01:10.7,70.7,TRUE,2
+13,Girls,A,100,Backstroke,16,01:13.9,73.93,TRUE,1
+14,Boys,A,100,Backstroke,1,56.5,56.5,TRUE,20
+14,Boys,A,100,Backstroke,2,56.81,56.81,TRUE,18
+14,Boys,A,100,Backstroke,3,57.19,57.19,TRUE,16
+14,Boys,A,100,Backstroke,4,58.19,58.19,TRUE,15
+14,Boys,A,100,Backstroke,5,58.22,58.22,TRUE,14
+14,Boys,A,100,Backstroke,6,58.23,58.23,TRUE,13
+14,Boys,A,100,Backstroke,7,58.41,58.41,TRUE,12
+14,Boys,A,100,Backstroke,8,01:00.3,60.27,TRUE,11
+14,Boys,A,100,Backstroke,9,01:00.6,60.63,TRUE,10
+14,Boys,A,100,Backstroke,10,01:00.9,60.9,TRUE,8
+14,Boys,A,100,Backstroke,11,01:01.0,61.05,TRUE,6
+14,Boys,A,100,Backstroke,12,01:01.2,61.24,TRUE,5
+14,Boys,A,100,Backstroke,13,01:01.8,61.85,TRUE,4
+14,Boys,A,100,Backstroke,14,01:02.5,62.46,TRUE,3
+14,Boys,A,100,Backstroke,15,01:02.5,62.49,TRUE,2
+14,Boys,A,100,Backstroke,16,01:02.6,62.57,TRUE,1
+15,Girls,B,400,Freestyle Relay,1,04:29.3,269.33,TRUE,40
+15,Girls,B,400,Freestyle Relay,2,04:33.5,273.48,TRUE,36
+15,Girls,B,400,Freestyle Relay,3,04:36.4,276.42,TRUE,32
+15,Girls,B,400,Freestyle Relay,4,04:48.4,288.39,TRUE,30
+15,Girls,B,400,Freestyle Relay,5,04:48.7,288.69,TRUE,28
+15,Girls,B,400,Freestyle Relay,6,04:54.2,294.2,TRUE,26
+15,Girls,B,400,Freestyle Relay,7,04:56.5,296.53,TRUE,24
+15,Girls,B,400,Freestyle Relay,8,04:59.5,299.51,TRUE,22
+15,Girls,B,400,Freestyle Relay,9,05:05.5,305.52,TRUE,20
+15,Girls,B,400,Freestyle Relay,10,05:06.9,306.94,TRUE,16
+15,Girls,B,400,Freestyle Relay,11,05:08.0,308.03,TRUE,12
+15,Girls,B,400,Freestyle Relay,12,05:16.8,316.78,TRUE,10
+15,Girls,B,400,Freestyle Relay,13,05:25.0,325.04,TRUE,8
+15,Girls,B,400,Freestyle Relay,14,05:34.3,334.31,FALSE,6
+15,Girls,B,400,Freestyle Relay,15,05:39.1,339.09,TRUE,4
+15,Girls,B,400,Freestyle Relay,16,06:10.3,370.31,TRUE,2
+16,Boys,B,400,Freestyle Relay,1,03:51.8,231.83,TRUE,40
+16,Boys,B,400,Freestyle Relay,2,03:58.1,238.13,TRUE,36
+16,Boys,B,400,Freestyle Relay,3,04:12.6,252.63,TRUE,32
+16,Boys,B,400,Freestyle Relay,4,04:17.7,257.73,FALSE,30
+16,Boys,B,400,Freestyle Relay,5,04:23.5,263.48,TRUE,28
+16,Boys,B,400,Freestyle Relay,6,04:26.6,266.6,TRUE,26
+16,Boys,B,400,Freestyle Relay,7,04:35.5,275.46,TRUE,24
+16,Boys,B,400,Freestyle Relay,8,04:46.0,286,TRUE,22
+16,Boys,B,400,Freestyle Relay,9,05:01.3,301.26,TRUE,20
+16,Boys,B,400,Freestyle Relay,10,05:09.7,309.69,TRUE,16
+16,Boys,B,400,Freestyle Relay,11,05:13.6,313.58,TRUE,12
+16,Boys,B,400,Freestyle Relay,12,05:30.9,330.91,TRUE,10
+16,Boys,B,400,Freestyle Relay,13,05:40.0,340,TRUE,8
+17,Girls,A,400,Freestyle Relay,1,03:48.3,228.28,TRUE,40
+17,Girls,A,400,Freestyle Relay,2,03:59.9,239.88,TRUE,36
+17,Girls,A,400,Freestyle Relay,3,04:02.2,242.16,TRUE,32
+17,Girls,A,400,Freestyle Relay,4,04:18.5,258.52,TRUE,30
+17,Girls,A,400,Freestyle Relay,5,04:18.7,258.69,TRUE,28
+17,Girls,A,400,Freestyle Relay,6,04:20.2,260.24,TRUE,26
+17,Girls,A,400,Freestyle Relay,7,04:22.5,262.55,TRUE,24
+17,Girls,A,400,Freestyle Relay,8,04:23.1,263.1,TRUE,22
+17,Girls,A,400,Freestyle Relay,9,04:25.4,265.39,TRUE,20
+17,Girls,A,400,Freestyle Relay,10,04:30.4,270.37,TRUE,16
+17,Girls,A,400,Freestyle Relay,11,04:33.8,273.75,TRUE,12
+17,Girls,A,400,Freestyle Relay,12,04:35.9,275.86,FALSE,10
+17,Girls,A,400,Freestyle Relay,13,04:50.8,290.8,TRUE,8
+17,Girls,A,400,Freestyle Relay,14,05:22.1,322.07,TRUE,6
+18,Boys,A,400,Freestyle Relay,1,03:29.7,209.66,TRUE,40
+18,Boys,A,400,Freestyle Relay,2,03:38.9,218.87,TRUE,36
+18,Boys,A,400,Freestyle Relay,3,03:40.0,220,TRUE,32
+18,Boys,A,400,Freestyle Relay,4,03:41.5,221.47,TRUE,30
+18,Boys,A,400,Freestyle Relay,5,03:47.5,227.47,TRUE,28
+18,Boys,A,400,Freestyle Relay,6,03:48.1,228.1,TRUE,26
+18,Boys,A,400,Freestyle Relay,7,03:49.8,229.78,TRUE,24
+18,Boys,A,400,Freestyle Relay,8,04:00.1,240.13,TRUE,22
+18,Boys,A,400,Freestyle Relay,9,04:01.9,241.91,TRUE,20
+18,Boys,A,400,Freestyle Relay,10,04:13.9,253.94,TRUE,16
+18,Boys,A,400,Freestyle Relay,11,04:14.0,253.98,TRUE,12
+18,Boys,A,400,Freestyle Relay,12,04:15.7,255.67,TRUE,10
+18,Boys,A,400,Freestyle Relay,13,04:19.3,259.35,TRUE,8
+20,Girls,B,50,Breaststroke,1,35.36,35.36,TRUE,20
+20,Girls,B,50,Breaststroke,2,35.43,35.43,TRUE,18
+20,Girls,B,50,Breaststroke,3,35.86,35.86,TRUE,16
+20,Girls,B,50,Breaststroke,4,36.29,36.29,TRUE,15
+20,Girls,B,50,Breaststroke,5,36.3,36.3,TRUE,14
+20,Girls,B,50,Breaststroke,6,36.7,36.7,TRUE,13
+20,Girls,B,50,Breaststroke,7,37.13,37.13,TRUE,12
+20,Girls,B,50,Breaststroke,8,37.42,37.42,TRUE,11
+20,Girls,B,50,Breaststroke,9,37.46,37.46,TRUE,10
+20,Girls,B,50,Breaststroke,10,37.76,37.76,TRUE,8
+20,Girls,B,50,Breaststroke,11,37.95,37.95,TRUE,6
+20,Girls,B,50,Breaststroke,12,38.55,38.55,TRUE,5
+20,Girls,B,50,Breaststroke,13,38.56,38.56,TRUE,4
+20,Girls,B,50,Breaststroke,14,38.75,38.75,TRUE,3
+20,Girls,B,50,Breaststroke,15,38.88,38.88,TRUE,2
+20,Girls,B,50,Breaststroke,16,40.37,40.37,TRUE,1
+21,Boys,B,50,Breaststroke,1,30.29,30.29,TRUE,20
+21,Boys,B,50,Breaststroke,2,30.8,30.8,TRUE,18
+21,Boys,B,50,Breaststroke,3,30.96,30.96,TRUE,16
+21,Boys,B,50,Breaststroke,4,31.07,31.07,TRUE,15
+21,Boys,B,50,Breaststroke,5,31.28,31.28,TRUE,14
+21,Boys,B,50,Breaststroke,6,31.81,31.81,TRUE,13
+21,Boys,B,50,Breaststroke,7,32.06,32.06,TRUE,12
+21,Boys,B,50,Breaststroke,8,32.21,32.21,TRUE,11
+21,Boys,B,50,Breaststroke,9,32.27,32.27,TRUE,10
+21,Boys,B,50,Breaststroke,10,32.54,32.54,TRUE,8
+21,Boys,B,50,Breaststroke,11,32.61,32.61,TRUE,6
+21,Boys,B,50,Breaststroke,12,32.64,32.64,TRUE,5
+21,Boys,B,50,Breaststroke,13,33.4,33.4,TRUE,4
+21,Boys,B,50,Breaststroke,14,33.5,33.5,TRUE,3
+21,Boys,B,50,Breaststroke,15,34.08,34.08,TRUE,2
+21,Boys,B,50,Breaststroke,16,34.36,34.36,TRUE,1
+22,Girls,A,100,Breaststroke,1,01:09.5,69.52,TRUE,20
+22,Girls,A,100,Breaststroke,2,01:11.9,71.86,TRUE,18
+22,Girls,A,100,Breaststroke,3,01:12.1,72.13,TRUE,16
+22,Girls,A,100,Breaststroke,4,01:14.3,74.27,TRUE,15
+22,Girls,A,100,Breaststroke,5,01:14.4,74.42,FALSE,14
+22,Girls,A,100,Breaststroke,6,01:14.6,74.64,TRUE,13
+22,Girls,A,100,Breaststroke,7,01:14.8,74.8,TRUE,12
+22,Girls,A,100,Breaststroke,8,01:15.1,75.14,TRUE,11
+22,Girls,A,100,Breaststroke,9,01:15.4,75.38,TRUE,10
+22,Girls,A,100,Breaststroke,10,01:15.4,75.41,TRUE,8
+22,Girls,A,100,Breaststroke,11,01:16.2,76.16,TRUE,6
+22,Girls,A,100,Breaststroke,12,01:16.5,76.54,TRUE,5
+22,Girls,A,100,Breaststroke,13,01:16.7,76.67,TRUE,4
+22,Girls,A,100,Breaststroke,14,01:17.3,77.26,TRUE,3
+22,Girls,A,100,Breaststroke,15,01:17.5,77.54,TRUE,2
+22,Girls,A,100,Breaststroke,16,01:17.8,77.76,TRUE,1
+23,Boys,A,100,Breaststroke,1,01:04.0,63.97,TRUE,20
+23,Boys,A,100,Breaststroke,2,01:04.2,64.17,TRUE,18
+23,Boys,A,100,Breaststroke,3,01:05.0,65.03,TRUE,16
+23,Boys,A,100,Breaststroke,4,01:05.1,65.11,TRUE,15
+23,Boys,A,100,Breaststroke,5,01:05.2,65.19,TRUE,14
+23,Boys,A,100,Breaststroke,6,01:05.7,65.65,TRUE,13
+23,Boys,A,100,Breaststroke,7,01:06.1,66.06,TRUE,12
+23,Boys,A,100,Breaststroke,8,01:06.1,66.11,TRUE,11
+23,Boys,A,100,Breaststroke,9,01:06.4,66.37,TRUE,10
+23,Boys,A,100,Breaststroke,10,01:07.9,67.86,TRUE,8
+23,Boys,A,100,Breaststroke,11,01:08.1,68.07,TRUE,6
+23,Boys,A,100,Breaststroke,12,01:09.1,69.15,TRUE,5
+23,Boys,A,100,Breaststroke,13,01:09.5,69.48,TRUE,4
+23,Boys,A,100,Breaststroke,14,01:09.9,69.93,TRUE,3
+23,Boys,A,100,Breaststroke,15,01:10.1,70.13,TRUE,2
+23,Boys,A,100,Breaststroke,16,01:10.1,70.13,TRUE,1
+25,Girls,B,100,Freestyle,1,59.58,59.58,TRUE,20
+25,Girls,B,100,Freestyle,2,59.72,59.72,TRUE,18
+25,Girls,B,100,Freestyle,3,01:01.6,61.56,TRUE,16
+25,Girls,B,100,Freestyle,4,01:02.0,62.03,TRUE,15
+25,Girls,B,100,Freestyle,5,01:04.6,64.62,TRUE,14
+25,Girls,B,100,Freestyle,6,01:05.1,65.06,TRUE,13
+25,Girls,B,100,Freestyle,7,01:05.5,65.48,TRUE,12
+25,Girls,B,100,Freestyle,8,01:06.5,66.45,TRUE,11
+25,Girls,B,100,Freestyle,9,01:06.6,66.64,TRUE,10
+25,Girls,B,100,Freestyle,10,01:06.9,66.9,TRUE,8
+25,Girls,B,100,Freestyle,11,01:07.4,67.37,TRUE,6
+25,Girls,B,100,Freestyle,12,01:08.0,68.02,TRUE,5
+25,Girls,B,100,Freestyle,13,01:08.2,68.17,TRUE,4
+25,Girls,B,100,Freestyle,14,01:08.6,68.56,TRUE,3
+25,Girls,B,100,Freestyle,15,01:08.7,68.68,TRUE,2
+25,Girls,B,100,Freestyle,16,01:08.9,68.91,TRUE,1
+26,Boys,B,100,Freestyle,1,54.17,54.17,TRUE,20
+26,Boys,B,100,Freestyle,2,54.99,54.99,TRUE,18
+26,Boys,B,100,Freestyle,3,55.4,55.4,TRUE,16
+26,Boys,B,100,Freestyle,4,55.81,55.81,TRUE,15
+26,Boys,B,100,Freestyle,5,56.05,56.05,TRUE,14
+26,Boys,B,100,Freestyle,6,56.27,56.27,TRUE,13
+26,Boys,B,100,Freestyle,7,57.42,57.42,TRUE,12
+26,Boys,B,100,Freestyle,8,58.2,58.2,TRUE,11
+26,Boys,B,100,Freestyle,9,58.28,58.28,TRUE,10
+26,Boys,B,100,Freestyle,10,58.36,58.36,TRUE,8
+26,Boys,B,100,Freestyle,11,58.39,58.39,TRUE,6
+26,Boys,B,100,Freestyle,12,58.45,58.45,TRUE,5
+26,Boys,B,100,Freestyle,13,58.55,58.55,TRUE,4
+26,Boys,B,100,Freestyle,14,58.93,58.93,TRUE,3
+26,Boys,B,100,Freestyle,15,01:00.2,60.18,TRUE,2
+27,Girls,A,100,Freestyle,1,54.76,54.76,TRUE,20
+27,Girls,A,100,Freestyle,2,57.18,57.18,TRUE,18
+27,Girls,A,100,Freestyle,3,57.2,57.2,TRUE,16
+27,Girls,A,100,Freestyle,4,57.82,57.82,TRUE,15
+27,Girls,A,100,Freestyle,5,57.88,57.88,TRUE,14
+27,Girls,A,100,Freestyle,6,58.3,58.3,TRUE,13
+27,Girls,A,100,Freestyle,7,58.43,58.43,TRUE,12
+27,Girls,A,100,Freestyle,8,58.71,58.71,TRUE,11
+27,Girls,A,100,Freestyle,9,59.5,59.5,TRUE,10
+27,Girls,A,100,Freestyle,10,59.71,59.71,TRUE,8
+27,Girls,A,100,Freestyle,11,59.81,59.81,TRUE,6
+27,Girls,A,100,Freestyle,12,01:00.2,60.2,TRUE,5
+27,Girls,A,100,Freestyle,13,01:00.6,60.58,TRUE,4
+27,Girls,A,100,Freestyle,14,01:00.6,60.64,TRUE,3
+27,Girls,A,100,Freestyle,15,01:00.8,60.78,TRUE,2
+27,Girls,A,100,Freestyle,16,01:02.1,62.1,TRUE,1
+28,Boys,A,100,Freestyle,1,50.94,50.94,TRUE,20
+28,Boys,A,100,Freestyle,2,51.34,51.34,TRUE,18
+28,Boys,A,100,Freestyle,3,51.92,51.92,TRUE,16
+28,Boys,A,100,Freestyle,4,51.99,51.99,TRUE,15
+28,Boys,A,100,Freestyle,5,52.04,52.04,TRUE,14
+28,Boys,A,100,Freestyle,6,52.76,52.76,TRUE,13
+28,Boys,A,100,Freestyle,7,52.99,52.99,TRUE,12
+28,Boys,A,100,Freestyle,8,53.78,53.78,TRUE,11
+28,Boys,A,100,Freestyle,9,53.86,53.86,TRUE,10
+28,Boys,A,100,Freestyle,10,54.34,54.34,TRUE,8
+28,Boys,A,100,Freestyle,11,55.12,55.12,TRUE,6
+28,Boys,A,100,Freestyle,12,55.28,55.28,TRUE,5
+28,Boys,A,100,Freestyle,13,55.34,55.34,TRUE,4
+28,Boys,A,100,Freestyle,14,55.42,55.42,TRUE,3
+28,Boys,A,100,Freestyle,15,55.98,55.98,TRUE,2
+28,Boys,A,100,Freestyle,16,01:00.6,60.64,TRUE,1
+32,Girls,B,50,Butterfly,1,30.18,30.18,TRUE,20
+32,Girls,B,50,Butterfly,2,30.31,30.31,TRUE,18
+32,Girls,B,50,Butterfly,3,31.06,31.06,TRUE,16
+32,Girls,B,50,Butterfly,4,31.22,31.22,TRUE,15
+32,Girls,B,50,Butterfly,5,31.29,31.29,TRUE,14
+32,Girls,B,50,Butterfly,6,31.46,31.46,TRUE,13
+32,Girls,B,50,Butterfly,7,31.59,31.59,TRUE,12
+32,Girls,B,50,Butterfly,8,32.29,32.29,TRUE,11
+32,Girls,B,50,Butterfly,9,32.55,32.55,TRUE,10
+32,Girls,B,50,Butterfly,10,32.79,32.79,TRUE,8
+32,Girls,B,50,Butterfly,11,32.94,32.94,TRUE,6
+32,Girls,B,50,Butterfly,12,33.01,33.01,TRUE,5
+32,Girls,B,50,Butterfly,13,33.3,33.3,TRUE,4
+32,Girls,B,50,Butterfly,14,33.55,33.55,TRUE,3
+32,Girls,B,50,Butterfly,15,33.68,33.68,TRUE,2
+32,Girls,B,50,Butterfly,16,33.86,33.86,TRUE,1
+33,Boys,B,50,Butterfly,1,25.92,25.92,TRUE,20
+33,Boys,B,50,Butterfly,2,26.5,26.5,TRUE,18
+33,Boys,B,50,Butterfly,3,27.02,27.02,TRUE,16
+33,Boys,B,50,Butterfly,4,27.24,27.24,TRUE,15
+33,Boys,B,50,Butterfly,5,27.35,27.35,TRUE,14
+33,Boys,B,50,Butterfly,6,27.39,27.39,TRUE,13
+33,Boys,B,50,Butterfly,7,27.57,27.57,TRUE,12
+33,Boys,B,50,Butterfly,8,27.62,27.62,TRUE,11
+33,Boys,B,50,Butterfly,9,28.01,28.01,TRUE,10
+33,Boys,B,50,Butterfly,10,28.02,28.02,TRUE,8
+33,Boys,B,50,Butterfly,11,28.49,28.49,TRUE,6
+33,Boys,B,50,Butterfly,12,28.86,28.86,TRUE,5
+33,Boys,B,50,Butterfly,13,28.99,28.99,TRUE,4
+33,Boys,B,50,Butterfly,14,29.04,29.04,TRUE,3
+33,Boys,B,50,Butterfly,15,29.27,29.27,TRUE,2
+33,Boys,B,50,Butterfly,16,29.29,29.29,TRUE,1
+34,Girls,A,100,Butterfly,1,01:01.0,60.97,TRUE,20
+34,Girls,A,100,Butterfly,2,01:02.6,62.56,TRUE,18
+34,Girls,A,100,Butterfly,3,01:02.8,62.79,TRUE,16
+34,Girls,A,100,Butterfly,4,01:03.1,63.07,TRUE,15
+34,Girls,A,100,Butterfly,5,01:03.6,63.61,TRUE,14
+34,Girls,A,100,Butterfly,6,01:03.7,63.69,TRUE,13
+34,Girls,A,100,Butterfly,7,01:04.0,63.97,TRUE,12
+34,Girls,A,100,Butterfly,8,01:04.2,64.17,TRUE,11
+34,Girls,A,100,Butterfly,9,01:04.6,64.58,TRUE,10
+34,Girls,A,100,Butterfly,10,01:05.2,65.23,TRUE,8
+34,Girls,A,100,Butterfly,11,01:05.4,65.44,TRUE,6
+34,Girls,A,100,Butterfly,12,01:05.8,65.84,TRUE,5
+34,Girls,A,100,Butterfly,13,01:07.9,67.86,TRUE,4
+34,Girls,A,100,Butterfly,14,01:08.2,68.24,TRUE,3
+34,Girls,A,100,Butterfly,15,01:08.5,68.51,TRUE,2
+34,Girls,A,100,Butterfly,16,01:08.7,68.71,TRUE,1
+35,Boys,A,100,Butterfly,1,56.14,56.14,TRUE,20
+35,Boys,A,100,Butterfly,2,56.15,56.15,TRUE,18
+35,Boys,A,100,Butterfly,3,56.66,56.66,TRUE,16
+35,Boys,A,100,Butterfly,4,57,57,TRUE,15
+35,Boys,A,100,Butterfly,5,57.16,57.16,TRUE,14
+35,Boys,A,100,Butterfly,6,57.63,57.63,TRUE,13
+35,Boys,A,100,Butterfly,7,57.76,57.76,TRUE,12
+35,Boys,A,100,Butterfly,8,58.26,58.26,TRUE,11
+35,Boys,A,100,Butterfly,9,58.26,58.26,TRUE,10
+35,Boys,A,100,Butterfly,10,58.66,58.66,TRUE,8
+35,Boys,A,100,Butterfly,11,59.51,59.51,TRUE,6
+35,Boys,A,100,Butterfly,12,59.53,59.53,TRUE,5
+35,Boys,A,100,Butterfly,13,01:00.0,60,TRUE,4
+35,Boys,A,100,Butterfly,14,01:00.3,60.34,TRUE,3
+35,Boys,A,100,Butterfly,15,01:00.4,60.43,TRUE,2
+35,Boys,A,100,Butterfly,16,01:05.8,65.76,TRUE,1
+36,Girls,B,200,Freestyle Relay,1,01:57.1,117.13,TRUE,40
+36,Girls,B,200,Freestyle Relay,2,02:00.4,120.35,TRUE,36
+36,Girls,B,200,Freestyle Relay,3,02:01.5,121.5,TRUE,32
+36,Girls,B,200,Freestyle Relay,4,02:02.1,122.09,TRUE,30
+36,Girls,B,200,Freestyle Relay,5,02:02.4,122.39,TRUE,28
+36,Girls,B,200,Freestyle Relay,6,02:03.7,123.74,TRUE,26
+36,Girls,B,200,Freestyle Relay,7,02:06.4,126.38,TRUE,24
+36,Girls,B,200,Freestyle Relay,8,02:06.5,126.55,TRUE,22
+36,Girls,B,200,Freestyle Relay,9,02:07.0,126.98,TRUE,20
+36,Girls,B,200,Freestyle Relay,10,02:07.6,127.55,TRUE,16
+36,Girls,B,200,Freestyle Relay,11,02:10.1,130.08,TRUE,12
+36,Girls,B,200,Freestyle Relay,12,02:10.2,130.18,TRUE,10
+36,Girls,B,200,Freestyle Relay,13,02:13.8,133.76,TRUE,8
+36,Girls,B,200,Freestyle Relay,14,02:14.8,134.81,TRUE,6
+36,Girls,B,200,Freestyle Relay,15,02:16.0,136,TRUE,4
+36,Girls,B,200,Freestyle Relay,16,02:18.9,138.94,TRUE,2
+37,Boys,B,200,Freestyle Relay,1,01:41.8,101.77,TRUE,40
+37,Boys,B,200,Freestyle Relay,2,01:41.8,101.78,TRUE,36
+37,Boys,B,200,Freestyle Relay,3,01:42.3,102.31,TRUE,32
+37,Boys,B,200,Freestyle Relay,4,01:46.1,106.1,TRUE,30
+37,Boys,B,200,Freestyle Relay,5,01:48.6,108.55,TRUE,28
+37,Boys,B,200,Freestyle Relay,6,01:50.5,110.49,TRUE,26
+37,Boys,B,200,Freestyle Relay,7,01:51.2,111.21,TRUE,24
+37,Boys,B,200,Freestyle Relay,8,01:54.2,114.19,TRUE,22
+37,Boys,B,200,Freestyle Relay,9,01:54.3,114.34,TRUE,20
+37,Boys,B,200,Freestyle Relay,10,01:54.5,114.5,TRUE,16
+37,Boys,B,200,Freestyle Relay,11,01:56.3,116.34,TRUE,12
+37,Boys,B,200,Freestyle Relay,12,01:56.6,116.63,TRUE,10
+37,Boys,B,200,Freestyle Relay,13,01:57.2,117.19,TRUE,8
+37,Boys,B,200,Freestyle Relay,14,01:57.9,117.94,TRUE,6
+37,Boys,B,200,Freestyle Relay,15,01:59.1,119.12,TRUE,4
+38,Girls,A,200,Freestyle Relay,1,01:47.8,107.85,TRUE,40
+38,Girls,A,200,Freestyle Relay,2,01:51.9,111.86,TRUE,36
+38,Girls,A,200,Freestyle Relay,3,01:53.4,113.41,TRUE,32
+38,Girls,A,200,Freestyle Relay,4,01:54.8,114.77,TRUE,30
+38,Girls,A,200,Freestyle Relay,5,01:55.9,115.87,TRUE,28
+38,Girls,A,200,Freestyle Relay,6,01:57.4,117.4,TRUE,26
+38,Girls,A,200,Freestyle Relay,7,01:58.0,118,TRUE,24
+38,Girls,A,200,Freestyle Relay,8,01:58.1,118.07,TRUE,22
+38,Girls,A,200,Freestyle Relay,9,01:58.6,118.64,TRUE,20
+38,Girls,A,200,Freestyle Relay,10,01:58.9,118.88,TRUE,16
+38,Girls,A,200,Freestyle Relay,11,01:59.4,119.37,TRUE,12
+38,Girls,A,200,Freestyle Relay,12,02:01.4,121.35,TRUE,10
+38,Girls,A,200,Freestyle Relay,13,02:01.5,121.53,TRUE,8
+38,Girls,A,200,Freestyle Relay,14,02:01.8,121.77,TRUE,6
+38,Girls,A,200,Freestyle Relay,15,02:02.3,122.32,TRUE,4
+39,Boys,A,200,Freestyle Relay,1,01:36.5,96.51,TRUE,40
+39,Boys,A,200,Freestyle Relay,2,01:37.8,97.76,TRUE,36
+39,Boys,A,200,Freestyle Relay,3,01:40.1,100.08,TRUE,32
+39,Boys,A,200,Freestyle Relay,4,01:40.6,100.61,TRUE,30
+39,Boys,A,200,Freestyle Relay,5,01:41.3,101.31,TRUE,28
+39,Boys,A,200,Freestyle Relay,6,01:41.4,101.43,TRUE,26
+39,Boys,A,200,Freestyle Relay,7,01:42.6,102.57,TRUE,24
+39,Boys,A,200,Freestyle Relay,8,01:43.5,103.48,TRUE,22
+39,Boys,A,200,Freestyle Relay,9,01:43.6,103.6,TRUE,20
+39,Boys,A,200,Freestyle Relay,10,01:44.4,104.41,TRUE,16
+39,Boys,A,200,Freestyle Relay,11,01:45.1,105.11,TRUE,12
+39,Boys,A,200,Freestyle Relay,12,01:45.2,105.21,TRUE,10
+39,Boys,A,200,Freestyle Relay,13,01:45.8,105.79,TRUE,8
+39,Boys,A,200,Freestyle Relay,14,01:48.5,108.54,TRUE,6
+39,Boys,A,200,Freestyle Relay,15,01:50.4,110.39,TRUE,4
+39,Boys,A,200,Freestyle Relay,16,01:52.1,112.14,TRUE,2
+41,Girls,B,100,IM,1,01:09.6,69.63,TRUE,20
+41,Girls,B,100,IM,2,01:11.1,71.14,TRUE,18
+41,Girls,B,100,IM,3,01:12.3,72.35,TRUE,16
+41,Girls,B,100,IM,4,01:13.3,73.33,TRUE,15
+41,Girls,B,100,IM,5,01:13.6,73.61,TRUE,14
+41,Girls,B,100,IM,6,01:14.3,74.32,TRUE,13
+41,Girls,B,100,IM,7,01:15.0,75.03,TRUE,12
+41,Girls,B,100,IM,8,01:15.2,75.22,TRUE,11
+41,Girls,B,100,IM,9,01:15.3,75.35,TRUE,10
+41,Girls,B,100,IM,10,01:15.8,75.76,TRUE,8
+41,Girls,B,100,IM,11,01:16.2,76.25,TRUE,6
+41,Girls,B,100,IM,12,01:16.3,76.3,TRUE,5
+41,Girls,B,100,IM,13,01:16.3,76.31,TRUE,4
+41,Girls,B,100,IM,14,01:16.8,76.82,TRUE,3
+41,Girls,B,100,IM,15,01:17.0,76.97,TRUE,2
+41,Girls,B,100,IM,16,01:18.3,78.28,TRUE,1
+42,Boys,B,100,IM,1,01:03.4,63.41,TRUE,20
+42,Boys,B,100,IM,2,01:03.5,63.47,TRUE,18
+42,Boys,B,100,IM,3,01:03.8,63.84,TRUE,16
+42,Boys,B,100,IM,4,01:03.9,63.94,TRUE,15
+42,Boys,B,100,IM,5,01:04.0,63.95,TRUE,14
+42,Boys,B,100,IM,6,01:05.0,64.98,TRUE,13
+42,Boys,B,100,IM,7,01:05.3,65.28,TRUE,12
+42,Boys,B,100,IM,8,01:05.7,65.74,TRUE,11
+42,Boys,B,100,IM,9,01:05.8,65.76,TRUE,10
+42,Boys,B,100,IM,10,01:06.5,66.51,TRUE,8
+42,Boys,B,100,IM,11,01:06.5,66.55,TRUE,6
+42,Boys,B,100,IM,12,01:07.3,67.35,TRUE,5
+42,Boys,B,100,IM,13,01:07.4,67.38,TRUE,4
+42,Boys,B,100,IM,14,01:07.6,67.6,TRUE,3
+42,Boys,B,100,IM,15,01:08.0,67.99,TRUE,2
+43,Girls,A,200,IM,1,02:13.6,133.59,TRUE,20
+43,Girls,A,200,IM,2,02:16.2,136.19,TRUE,18
+43,Girls,A,200,IM,3,02:18.6,138.64,TRUE,16
+43,Girls,A,200,IM,4,02:20.6,140.55,TRUE,15
+43,Girls,A,200,IM,5,02:22.3,142.32,TRUE,14
+43,Girls,A,200,IM,6,02:22.8,142.78,TRUE,13
+43,Girls,A,200,IM,7,02:23.9,143.85,TRUE,12
+43,Girls,A,200,IM,8,02:24.7,144.74,TRUE,11
+43,Girls,A,200,IM,9,02:26.4,146.38,TRUE,10
+43,Girls,A,200,IM,10,02:27.5,147.48,TRUE,8
+43,Girls,A,200,IM,11,02:29.2,149.22,TRUE,6
+43,Girls,A,200,IM,12,02:29.6,149.56,TRUE,5
+43,Girls,A,200,IM,13,02:31.0,151.01,TRUE,4
+43,Girls,A,200,IM,14,02:31.1,151.11,TRUE,3
+43,Girls,A,200,IM,15,02:32.1,152.08,FALSE,2
+43,Girls,A,200,IM,16,02:32.1,152.11,TRUE,1
+44,Boys,A,200,IM,1,02:04.8,124.82,TRUE,20
+44,Boys,A,200,IM,2,02:06.3,126.26,TRUE,18
+44,Boys,A,200,IM,3,02:06.5,126.49,TRUE,16
+44,Boys,A,200,IM,4,02:08.3,128.34,TRUE,15
+44,Boys,A,200,IM,5,02:09.6,129.56,TRUE,14
+44,Boys,A,200,IM,6,02:12.1,132.06,TRUE,13
+44,Boys,A,200,IM,7,02:17.0,136.97,TRUE,12
+44,Boys,A,200,IM,8,02:17.7,137.73,TRUE,11
+44,Boys,A,200,IM,9,02:17.9,137.9,TRUE,10
+44,Boys,A,200,IM,10,02:19.0,138.97,TRUE,8
+44,Boys,A,200,IM,11,02:19.0,138.97,TRUE,6
+44,Boys,A,200,IM,12,02:19.9,139.89,TRUE,5
+44,Boys,A,200,IM,13,02:21.1,141.09,TRUE,4
+44,Boys,A,200,IM,14,02:22.3,142.26,TRUE,3
